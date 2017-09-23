@@ -1,0 +1,57 @@
+p{
+    color: #ffe577;
+    font-weight: lighter;
+    font-size: 14px;
+}
+body{
+    background-color: #7d0000;
+}
+#form-home{
+
+    background-color: lightgray;
+    width: 300px;
+    border: 4px solid #c0392b;
+    padding: 25px 20px 25px 30px;
+    margin: 25px;
+}
+.option-form{
+    color: #636363;
+}
+.titulo{
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+}
+p :hover{
+    color:white;
+}
+a.link-externo:hover{
+    color: #22daff;
+}
+div.lista > *[data-target="boton"]{
+
+}
+div#contenedorTitulo.titulos p.texto{
+
+}
+input[type="password"] ~ button:first-child{
+
+}
+.contenedor{
+    display: inline-block;
+    background-color: white;
+    border:3px solid black;
+    position: fixed;
+    top: 0;
+    right:0;
+}
+input{
+    position: relative;
+    left:5px;
+}
+span{
+
+    margin:5px;
+
+    padding:20px;
+}
