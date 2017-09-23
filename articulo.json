@@ -1,0 +1,5 @@
+{
+  "titulo": "Título desde JSON",
+  "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis arcu in libero tincidunt, non suscipit libero posuere. Duis finibus mattis purus vel congue. Integer varius pretium urna sit amet lacinia. Maecenas a dapibus leo. Ut posuere interdum rutrum. Vestibulum ut odio lacinia, luctus urna eget, efficitur quam. Morbi tempor, sem pharetra varius accumsan, ligula mi rhoncus ex, quis dictum arcu eros vitae eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce iaculis arcu in libero tincidunt, non suscipit libero posuere. Duis finibus mattis purus vel congue. Integer varius pretium urna sit amet lacinia. Maecenas a dapibus leo. Ut posuere interdum rutrum. Vestibulum ut odio lacinia, luctus urna eget, efficitur quam. Morbi tempor, sem pharetra varius accumsan, ligula mi rhoncus ex, quis dictum arcu eros vitae eros.",
+  "subtitulo": "Este sería el subtítulo de mi artículo"
+}
